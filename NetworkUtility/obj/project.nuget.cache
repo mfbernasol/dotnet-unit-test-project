@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5X01uY08Ht6uq8Tzw9aGc6X+aGCRB1aCAVYkYRt28LSMdUb7ZKKJU+n2pKjvWKrYwl+fKundiMdC1xKV6+NFA==",
+  "success": true,
+  "projectFilePath": "/Users/mbernasol/Documents/UnitTestsProject/NetworkUtility/NetworkUtility.csproj",
+  "expectedPackageFiles": [
+    "/Users/mbernasol/.nuget/packages/fluentassertions/6.12.0/fluentassertions.6.12.0.nupkg.sha512",
+    "/Users/mbernasol/.nuget/packages/system.configuration.configurationmanager/4.4.0/system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "/Users/mbernasol/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

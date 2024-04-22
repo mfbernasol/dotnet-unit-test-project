@@ -1,0 +1,15 @@
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/bin/Debug/net6.0/UnitTestsProject
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/bin/Debug/net6.0/UnitTestsProject.deps.json
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/bin/Debug/net6.0/UnitTestsProject.runtimeconfig.json
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/bin/Debug/net6.0/UnitTestsProject.dll
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/bin/Debug/net6.0/UnitTestsProject.pdb
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/obj/Debug/net6.0/UnitTestsProject.csproj.AssemblyReference.cache
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/obj/Debug/net6.0/UnitTestsProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/obj/Debug/net6.0/UnitTestsProject.AssemblyInfoInputs.cache
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/obj/Debug/net6.0/UnitTestsProject.AssemblyInfo.cs
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/obj/Debug/net6.0/UnitTestsProject.csproj.CoreCompileInputs.cache
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/obj/Debug/net6.0/UnitTestsProject.dll
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/obj/Debug/net6.0/refint/UnitTestsProject.dll
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/obj/Debug/net6.0/UnitTestsProject.pdb
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/obj/Debug/net6.0/UnitTestsProject.genruntimeconfig.cache
+/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/obj/Debug/net6.0/ref/UnitTestsProject.dll

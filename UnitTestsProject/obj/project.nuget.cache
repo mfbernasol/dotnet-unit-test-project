@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tlHlvSqkS5kU3bqSx4bXtn6qEAmAO6xJckE8LqQWHjkOx5BuDx+N0N0k9Ra9vtJQruyg4cLAil+LaTe1y+YKTA==",
+  "dgSpecHash": "2Q/RPA3Uk5NfuoVUkFBufAkj2+ivHHxRlBvVUpO0P7vD0vC+b8TnjOOJpcHQqSzDRtFcqUPUkv2JM+1Cms/eYg==",
   "success": true,
-  "projectFilePath": "/Users/mbernasol/Documents/UnitTestsProject/UnitTestsProject/UnitTestsProject.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/michaelbernasol/RiderProjects/dotnet-unit-test-project/UnitTestsProject/UnitTestsProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/michaelbernasol/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/michaelbernasol/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/michaelbernasol/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.29/microsoft.netcore.app.host.osx-arm64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

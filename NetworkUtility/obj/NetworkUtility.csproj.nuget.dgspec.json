@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mbernasol/Documents/UnitTestsProject/NetworkUtility/NetworkUtility.csproj": {}
+    "/Users/michaelbernasol/RiderProjects/dotnet-unit-test-project/NetworkUtility/NetworkUtility.csproj": {}
   },
   "projects": {
-    "/Users/mbernasol/Documents/UnitTestsProject/NetworkUtility/NetworkUtility.csproj": {
+    "/Users/michaelbernasol/RiderProjects/dotnet-unit-test-project/NetworkUtility/NetworkUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mbernasol/Documents/UnitTestsProject/NetworkUtility/NetworkUtility.csproj",
+        "projectUniqueName": "/Users/michaelbernasol/RiderProjects/dotnet-unit-test-project/NetworkUtility/NetworkUtility.csproj",
         "projectName": "NetworkUtility",
-        "projectPath": "/Users/mbernasol/Documents/UnitTestsProject/NetworkUtility/NetworkUtility.csproj",
-        "packagesPath": "/Users/mbernasol/.nuget/packages/",
-        "outputPath": "/Users/mbernasol/Documents/UnitTestsProject/NetworkUtility/obj/",
+        "projectPath": "/Users/michaelbernasol/RiderProjects/dotnet-unit-test-project/NetworkUtility/NetworkUtility.csproj",
+        "packagesPath": "/Users/michaelbernasol/.nuget/packages/",
+        "outputPath": "/Users/michaelbernasol/RiderProjects/dotnet-unit-test-project/NetworkUtility/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mbernasol/.nuget/NuGet/NuGet.Config"
+          "/Users/michaelbernasol/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -54,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.421/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
         }
       }
     }

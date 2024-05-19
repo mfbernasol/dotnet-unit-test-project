@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4d847540_002D3edd_002D465c_002D8b51_002Da0e592632c05/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NetworkService_MostRecentPings_ReturnsObject" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::2807EEF1-1BE6-4028-86F4-C8D3D03C19C4::net6.0::NetworkUtility.Tests.PingTests.NetworkServiceTest.NetworkService_MostRecentPings_ReturnsObject&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2807EEF1-1BE6-4028-86F4-C8D3D03C19C4::net6.0::NetworkUtility.Tests.PingTests.NetworkServiceTest.NetworkService_SendPing_ReturnString&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=97e99429_002Db203_002D4df2_002D9fdf_002D585768a04988/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;NetworkUtility.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/michaelbernasol/RiderProjects/dotnet-unit-test-project/NetworkUtility.Tests" Presentation="&amp;lt;NetworkUtility.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
